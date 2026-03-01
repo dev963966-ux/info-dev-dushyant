@@ -1,0 +1,5 @@
+Example endpoints:
+https://your-api.vercel.app/player-info?uid=2670799190
+https://your-api.vercel.app/player-info?uid=2670799190&region=IND
+https://your-api.vercel.app/health
+https://your-api.vercel.app/stats

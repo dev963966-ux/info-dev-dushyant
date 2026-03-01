@@ -1,0 +1,24 @@
+🔥 FREE FIRE API PROJECT 🔥
+
+Developer: Your Name
+Project: Personal Learning Project
+Date: March 2026
+
+🎯 Purpose:
+Dil ki shanti ke liye banaya hai 😊
+
+📡 API Endpoint:
+https://your-api.vercel.app/player-info?uid=2670799190
+
+✨ Features:
+- Player basic info
+- Profile details
+- Clan information
+- Pet information
+- Social stats
+
+🚀 Deployed on Vercel
+💻 Built with Python/Flask
+
+📝 Note:
+This is a personal project. Not for commercial use.
